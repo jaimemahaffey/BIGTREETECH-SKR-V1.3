@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\.."
+		},
+		{
+			"name": "Marlin-2.0.x-SKR-V1.4-Turbo",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
